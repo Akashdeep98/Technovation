@@ -1,0 +1,73 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+   overflow-x:hidden;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.font_aw_pad{
+	padding-left: 35px;
+}
+.i_frame
+{
+	width:400px;
+	height:200px;
+}
+
+.teamiamge{
+	height: 25vh;
+	width: 55vh;
+}
+.teamInAboutus{
+	height: 50vh;
+	width: 60vh;
+}
+.deskGraphic{
+	width: 110vh;
+}
+.team1{
+	width: 60vh;
+}
+.box{
+	height: 800px;
+}
+.indexImage{
+height: 60vh;
+}
+.footer {
+    position: absolute;
+    bottom: -75;
+    width: 100%;
+    height: 110px;
+    background-color: black;
+}
+@media (min-width: 300px) and (max-width: 412px){
+	.teamInAboutus{
+		height: 30vh;
+	width: 40vh;
+}
+	.font_aw_pad{
+		padding-left: 10px;
+	}
+	.i_frame
+	{
+		width:200px;
+		height:150px;
+	}	
+	.teamiamge{
+		height: 30vh;
+		width: 45vh;
+		}
+		.deskGraphic{
+	width: 50vh;
+}
+	.indexImage{
+	height: 30vh;
+	}
+}
+
+
